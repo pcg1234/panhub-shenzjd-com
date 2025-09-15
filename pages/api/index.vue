@@ -219,6 +219,10 @@ channels=["alipanshare", "tgxiazaiyuan"]</code></pre>
             <p>可用的搜索插件包括：</p>
             <div class="plugin-grid">
               <span class="plugin-tag">labi</span>
+              <span class="plugin-tag">u3c3</span>
+              <span class="plugin-tag">javdb</span>
+              <span class="plugin-tag">yuhuage</span>
+              <span class="plugin-tag">xys</span>
               <span class="plugin-tag">panta</span>
               <span class="plugin-tag">jikepan</span>
               <span class="plugin-tag">qupansou</span>
